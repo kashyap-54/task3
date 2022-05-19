@@ -11,6 +11,7 @@ body
     color: #ffffff;
     margin-right: 10px;
     transition: 0.5s ease;
+    font-size: 20px;
 }   
 .navbar-nav .active a
 {
@@ -24,7 +25,7 @@ body
 .navbar-brand
 {
     color: #ffffff;
-    font-size: 30px;
+    font-size: 25px;
 }
 .navbar-brand:hover{
     color: #ffffff;
@@ -51,6 +52,7 @@ p{
     margin-right: 2%;
     padding: 10px 30px;
     transition: 0.4s ease;
+    font-size: 17px;
 }
 .button:hover{
     color: #000000;
@@ -65,7 +67,7 @@ p{
   margin-right: auto;
   margin-left: auto;
   margin-top: -70px;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 
